@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "types": [
+      "babel-plugin-tailwind-rn-classname"
+    ]
+  },
+  "extends": "expo/tsconfig.base"
+}
